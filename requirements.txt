@@ -1,4 +1,0 @@
-requests
-https://github.com/sigmavirus24/github3.py/archive/develop.tar.gz#egg=github3.py
-python-decouple
-pyyaml
